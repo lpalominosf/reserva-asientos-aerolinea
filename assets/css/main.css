@@ -1,0 +1,26 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+button {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.first_class {
+	background: purple;
+	display: list-item;
+}
+
+.economic_class {
+	background: yellow;
+	display: list-item;
+}
+
+.seats {
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	display: inline-block;
+
+}
